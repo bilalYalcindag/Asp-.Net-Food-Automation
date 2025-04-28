@@ -1,0 +1,23 @@
+﻿@model CoreFood.Data.Models.Category
+
+
+
+<h2>Category Add Page</h2>
+<br />
+
+@using (Html.BeginForm("CategoryUpdate", "Category", FormMethod.Post))
+{
+    @Html.Label("Category ID")
+    @Html.TextBoxFor(x => x.categoryID, new { @class = "form-control" })
+   
+    <br />
+    @Html.Label("Category Name")
+    @Html.TextBoxFor(x => x.categoryName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.categoryName, "", new { @style = "color:red" })
+    <br />
+    @Html.Label("Category Description")
+    @Html.TextBoxFor(x => x.categoryDescription, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-primary">Save</button>
+
+}

@@ -1,0 +1,33 @@
+﻿@model List<CoreFood.Data.Models.Food>
+
+
+<h2>Food List</h2>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Food Name</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Category Name</th>
+        <th>Delete</th>
+        <th>Update</th>
+        <th>Details</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.foodID</td>
+            <td>@x.name</td>
+            <td>@x.price</td>
+            <td>@x.stock</td>
+            <td>@x.Category.categoryName</td>
+            <td><a href="/Food/DeleteFood/@x.foodID" class="btn btn-danger">Delete</a></td>
+            <td><a href="#" class="btn btn-success">Update</a></td>
+            <td><a href="#" class="btn btn-info">Details</a></td>
+
+        </tr>
+    }
+</table>
+
+<a href="/Food/AddFood" class="btn btn-primary">New Category</a>
