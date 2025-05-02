@@ -21,6 +21,32 @@ namespace CoreFood.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("CoreFood.Data.Models.Admin", b =>
+                {
+                    b.Property<int>("adminID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("adminID"));
+
+                    b.Property<string>("adminRole")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("password")
+                        .HasMaxLength(20)
+                        .HasColumnType("int");
+
+                    b.Property<string>("userName")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.HasKey("adminID");
+
+                    b.ToTable("Admins");
+                });
+
             modelBuilder.Entity("CoreFood.Data.Models.Category", b =>
                 {
                     b.Property<int>("categoryID")

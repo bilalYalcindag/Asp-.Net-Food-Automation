@@ -25,16 +25,19 @@ namespace CoreFood.Repository
         public void TUpdate(T p)
         {
             c.Set<T>().Update(p);
+            c.SaveChanges();
         }
 
         public T GetT(int id)
         {
            return c.Set<T>().Find(id);
+            
         }
 
         public List<T> TList(string p) 
         { 
             return c.Set<T>().Include(p).ToList();
+
         }
     }
 }

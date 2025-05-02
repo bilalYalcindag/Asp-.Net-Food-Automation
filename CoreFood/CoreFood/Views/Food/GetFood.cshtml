@@ -1,0 +1,33 @@
+﻿@model CoreFood.Data.Models.Food
+
+
+<h2> get Food Page</h2>
+<br />
+
+@using (Html.BeginForm("FoodUpdate", "Food", FormMethod.Post))
+{
+    @Html.Label("Food ID")
+    @Html.TextBoxFor(x => x.foodID, new { @class = "form-control" })
+    <br />
+    @Html.Label("Food Name")
+    @Html.TextBoxFor(x => x.name, new { @class = "form-control" })
+    <br />
+    @Html.Label("Stock")
+    @Html.TextBoxFor(x => x.stock, new { @class = "form-control" })
+    <br />
+    @Html.Label("Price")
+    @Html.TextBoxFor(x => x.price, new { @class = "form-control" })
+    <br />
+    <br />
+    @Html.Label("Image URL")
+    @Html.TextBoxFor(x => x.imageURL, new { @class = "form-control" })
+    <br />
+    @Html.Label("Category")
+    @Html.Label("Category")
+    @Html.DropDownListFor(x => x.categoryID, (List<SelectListItem>)ViewBag.v1, new { @class = "form-control" })
+    <br />
+    @Html.Label("Description")
+    @Html.TextAreaFor(x => x.description, new { @class = "form-control" })
+    <button class="btn btn-dark">Save</button>
+
+}

@@ -3,12 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\wwwroot\\login_v6\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\wwwroot\\login_v6\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\chart\\statics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\chart\\statics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\chart\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\chart\\index3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\chart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\chart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\food\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\food\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\food\\getfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\food\\getfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\category\\categoryadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\category\\categoryadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\chart\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\chart\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\category\\getcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,38 +103,6 @@
       "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\food\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\food\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\food\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,16 +111,8 @@
       "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\corefood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|c:\\users\\acer\\documents\\github\\asp-.net-food-automation\\corefood\\corefood\\data\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE013DA4-C10E-4F08-B219-079FE11F7CD4}|CoreFood\\CoreFood.csproj|solutionrelative:corefood\\data\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,71 +131,278 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Program.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Program.cs",
+              "RelativeToolTip": "CoreFood\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:54:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "CoreFood\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "CoreFood\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T15:45:17.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\GetCategory.cshtml",
-              "RelativeDocumentMoniker": "CoreFood\\Views\\Category\\GetCategory.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\GetCategory.cshtml",
-              "RelativeToolTip": "CoreFood\\Views\\Category\\GetCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-28T15:48:40.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoreFood\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "CoreFood\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T14:04:12.576Z",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CoreFood\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:02:24.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CoreFood\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAIAAAAbAAAAAAAAAA==",
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Data\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Context.cs",
+              "RelativeToolTip": "CoreFood\\Data\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T13:19:15.95Z",
+              "WhenOpened": "2025-04-23T12:48:06.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Data\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Admin.cs",
+              "RelativeToolTip": "CoreFood\\Data\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:21:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoreFood\\Views\\Food\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\Index.cshtml",
-              "RelativeToolTip": "CoreFood\\Views\\Food\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwCoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T14:54:34.409Z",
+              "WhenOpened": "2025-05-02T13:02:47.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\index.html",
+              "RelativeDocumentMoniker": "CoreFood\\wwwroot\\Login_v6\\index.html",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\index.html",
+              "RelativeToolTip": "CoreFood\\wwwroot\\Login_v6\\index.html",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T13:06:44.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statics.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Statics.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Chart\\Statics.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Statics.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Chart\\Statics.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwIgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T15:35:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Controllers\\ChartController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "CoreFood\\Controllers\\ChartController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwHAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:06:47.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T13:46:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Index3.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Chart\\Index3.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Index3.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Chart\\Index3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T11:31:21.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Class2.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Data\\Class2.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Class2.cs",
+              "RelativeToolTip": "CoreFood\\Data\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:21:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Class1.cs",
+              "RelativeToolTip": "CoreFood\\Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:07:50.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\CategoryAdd.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Category\\CategoryAdd.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\CategoryAdd.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Category\\CategoryAdd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:03:09.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "CoreFood\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:33:08.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Chart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Index.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Chart\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T13:20:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Index2.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Chart\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Chart\\Index2.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Chart\\Index2.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T13:36:01.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetFood.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\GetFood.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Food\\GetFood.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\GetFood.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Food\\GetFood.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T12:13:53.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "CoreFood\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:39:56.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Food\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\Index.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Food\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:54:34.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddFood.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\AddFood.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Food\\AddFood.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\AddFood.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Food\\AddFood.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T11:54:14.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T14:04:12.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Category.cs",
               "RelativeDocumentMoniker": "CoreFood\\Data\\Models\\Category.cs",
@@ -159,86 +410,35 @@
               "RelativeToolTip": "CoreFood\\Data\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T12:40:46.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T12:40:46.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "CoreFood\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:33:08.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FoodController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\FoodController.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Controllers\\FoodController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\FoodController.cs",
-              "RelativeToolTip": "CoreFood\\Controllers\\FoodController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:39:56.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CoreFood\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CoreFood\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwC8AAABDAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "GetCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\GetCategory.cshtml",
+              "RelativeDocumentMoniker": "CoreFood\\Views\\Category\\GetCategory.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Category\\GetCategory.cshtml",
+              "RelativeToolTip": "CoreFood\\Views\\Category\\GetCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T13:46:09.758Z"
+              "WhenOpened": "2025-04-28T15:48:40.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddFood.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\AddFood.cshtml",
-              "RelativeDocumentMoniker": "CoreFood\\Views\\Food\\AddFood.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\Food\\AddFood.cshtml",
-              "RelativeToolTip": "CoreFood\\Views\\Food\\AddFood.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBYAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T11:54:14.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Program.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Program.cs",
-              "RelativeToolTip": "CoreFood\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreFood\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreFood\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T12:54:56.904Z"
+              "WhenOpened": "2025-04-23T13:19:15.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "CoreFood\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:20:09.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "FoodRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Repository\\FoodRepository.cs",
               "RelativeDocumentMoniker": "CoreFood\\Repository\\FoodRepository.cs",
@@ -250,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "CoreFood.csproj",
               "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\CoreFood.csproj",
               "RelativeDocumentMoniker": "CoreFood\\CoreFood.csproj",
@@ -262,19 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Context.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Data\\Models\\Context.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Context.cs",
-              "RelativeToolTip": "CoreFood\\Data\\Models\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T12:48:06.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CoreFood\\Views\\_ViewImports.cshtml",
@@ -283,18 +471,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-23T13:21:05.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Food.cs",
-              "RelativeDocumentMoniker": "CoreFood\\Data\\Models\\Food.cs",
-              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\Data\\Models\\Food.cs",
-              "RelativeToolTip": "CoreFood\\Data\\Models\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T12:42:14.826Z"
             }
           ]
         }

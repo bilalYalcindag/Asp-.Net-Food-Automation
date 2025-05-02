@@ -5,6 +5,590 @@
       "PackagePath": "staticwebassets\\CoreFood.k0sbaz7bdw.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login_v6\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login_v6\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\images\\avatar-01.png",
+      "PackagePath": "staticwebassets\\Login_v6\\images\\avatar-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login_v6\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\index.html",
+      "PackagePath": "staticwebassets\\Login_v6\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login_v6\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Login_v6\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\.gitattributes",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\Yeni Metin Belgesi.txt",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\Yeni Metin Belgesi.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\css\\nav.css",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\css\\style.css",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\ar2.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\ar2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\into.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\into.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\into1.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\into1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\pp.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\pp0.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\pp0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\pp01.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\pp01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\settings.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\settings.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\images\\tick-mark.png",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\images\\tick-mark.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\index.html",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\Chart1.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\Chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\jquery.easydropdown.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\jquery.easydropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\main.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\site.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\resimler\\book1.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\resimler\\book1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\resimler\\book2.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\resimler\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\resimler\\book3.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\resimler\\book3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\resimler\\book4.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\resimler\\book4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\resimler\\book5.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\resimler\\book5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\resimler\\img1.jpg",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\resimler\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\Web2\\CoreTemplateWeb2-master\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\Web2\\CoreTemplateWeb2-master\\w3layouts-License.txt"
+    },
+    {
       "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

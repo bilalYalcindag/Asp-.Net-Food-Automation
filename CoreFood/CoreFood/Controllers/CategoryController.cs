@@ -1,16 +1,20 @@
 ﻿using CoreFood.Repository;
 using Microsoft.AspNetCore.Mvc;
 using CoreFood.Data.Models;
+using X.PagedList.Extensions;
+using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CoreFood.Controllers
 {
     public class CategoryController : Controller
     {
         CategoryRepository categoryRepository = new CategoryRepository();
-        public IActionResult Index()
+        
+        public IActionResult Index(int page = 1)
         {
-           
-            return View(categoryRepository.TList());
+            var values = categoryRepository.TList().ToPagedList(page, 10); // 10: her sayfadaki eleman sayısı
+            return View(values); // Artık model IPagedList<Category> döner
         }
         [HttpGet]
         public IActionResult CategoryAdd() 
@@ -20,7 +24,7 @@ namespace CoreFood.Controllers
         [HttpPost]
         public IActionResult CategoryAdd(Category category)
         {
-            if (!ModelState.IsValid) 
+            if (ModelState.IsValid) 
             {
                 return View("CategoryAdd");
             }

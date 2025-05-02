@@ -1,4 +1,7 @@
-﻿@model List<CoreFood.Data.Models.Category>
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@model X.PagedList.IPagedList<CoreFood.Data.Models.Category>
 
 <h2>Category List</h2>
 <br />
@@ -21,5 +24,7 @@
     </tr>
     }
 </table>
+
+@Html.PagedListPager((IPagedList)Model,page=>Url.Action("Index",new{page})) 
 
 <a href="/Category/CategoryAdd" class="btn btn-primary">New Category</a>

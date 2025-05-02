@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.4",
           "Microsoft.EntityFrameworkCore.Design": "9.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4",
-          "Microsoft.EntityFrameworkCore.Tools": "9.0.4"
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.4",
+          "X.PagedList.Mvc.Core": "10.5.7"
         },
         "runtime": {
           "CoreFood.dll": {}
@@ -1066,6 +1067,25 @@
             "fileVersion": "6.0.21.52210"
           }
         }
+      },
+      "X.PagedList/10.5.7": {
+        "runtime": {
+          "lib/net8.0/X.PagedList.dll": {
+            "assemblyVersion": "10.5.7.0",
+            "fileVersion": "10.5.7.0"
+          }
+        }
+      },
+      "X.PagedList.Mvc.Core/10.5.7": {
+        "dependencies": {
+          "X.PagedList": "10.5.7"
+        },
+        "runtime": {
+          "lib/net8.0/X.PagedList.Mvc.Core.dll": {
+            "assemblyVersion": "10.5.7.0",
+            "fileVersion": "10.5.7.0"
+          }
+        }
       }
     }
   },
@@ -1662,6 +1682,20 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "X.PagedList/10.5.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nevli+eaR3wMeb6pSNa+ApsddA9bw6Pl7wuX7B2nFj0v184RV/FtFRUckgNAaogGcmEiLXcsQX3ox0y164DnHg==",
+      "path": "x.pagedlist/10.5.7",
+      "hashPath": "x.pagedlist.10.5.7.nupkg.sha512"
+    },
+    "X.PagedList.Mvc.Core/10.5.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YuQEz9Y2AC8oaYk6yBISRxSpKuUEYLwoDpjimump8O+v4B2vZcigWQ6nEYE9blwmKLV0xGLy0S2zlbicvKCyPg==",
+      "path": "x.pagedlist.mvc.core/10.5.7",
+      "hashPath": "x.pagedlist.mvc.core.10.5.7.nupkg.sha512"
     }
   }
 }

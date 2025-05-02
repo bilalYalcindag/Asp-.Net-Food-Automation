@@ -4,7 +4,7 @@
 <h2>Food Add Page</h2>
 <br />
 
-@using (Html.BeginForm("FoodAdd", "Food", FormMethod.Post))
+@using (Html.BeginForm("AddFood", "Food", FormMethod.Post))
 {
     @Html.Label("Food Name")
     @Html.TextBoxFor(x => x.name, new { @class = "form-control" })
@@ -24,6 +24,6 @@
     <br />
     @Html.Label("Description")
     @Html.TextAreaFor(x => x.description, new { @class = "form-control" })
-    <button class="btn btn-check">Save</button>
+    <button class="btn btn-dark">Save</button>
 
 }
