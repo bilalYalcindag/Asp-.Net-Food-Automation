@@ -841,6 +841,674 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\about.html",
+      "PackagePath": "staticwebassets\\web\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\bread.html",
+      "PackagePath": "staticwebassets\\web\\bread.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\checkout.html",
+      "PackagePath": "staticwebassets\\web\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\web\\css\\creditly.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\drinks.html",
+      "PackagePath": "staticwebassets\\web\\drinks.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\events.html",
+      "PackagePath": "staticwebassets\\web\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\faqs.html",
+      "PackagePath": "staticwebassets\\web\\faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\frozen.html",
+      "PackagePath": "staticwebassets\\web\\frozen.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\household.html",
+      "PackagePath": "staticwebassets\\web\\household.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\1.png",
+      "PackagePath": "staticwebassets\\web\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\10.png",
+      "PackagePath": "staticwebassets\\web\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\11.png",
+      "PackagePath": "staticwebassets\\web\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\12.png",
+      "PackagePath": "staticwebassets\\web\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\13.png",
+      "PackagePath": "staticwebassets\\web\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\14.png",
+      "PackagePath": "staticwebassets\\web\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\15.png",
+      "PackagePath": "staticwebassets\\web\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\16.png",
+      "PackagePath": "staticwebassets\\web\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\17.png",
+      "PackagePath": "staticwebassets\\web\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\18.png",
+      "PackagePath": "staticwebassets\\web\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\19.png",
+      "PackagePath": "staticwebassets\\web\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\2.png",
+      "PackagePath": "staticwebassets\\web\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\20.png",
+      "PackagePath": "staticwebassets\\web\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\21.png",
+      "PackagePath": "staticwebassets\\web\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\22.png",
+      "PackagePath": "staticwebassets\\web\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\23.png",
+      "PackagePath": "staticwebassets\\web\\images\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\24.png",
+      "PackagePath": "staticwebassets\\web\\images\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\25.png",
+      "PackagePath": "staticwebassets\\web\\images\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\26.png",
+      "PackagePath": "staticwebassets\\web\\images\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\27.png",
+      "PackagePath": "staticwebassets\\web\\images\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\28.png",
+      "PackagePath": "staticwebassets\\web\\images\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\29.png",
+      "PackagePath": "staticwebassets\\web\\images\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\3.png",
+      "PackagePath": "staticwebassets\\web\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\30.png",
+      "PackagePath": "staticwebassets\\web\\images\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\31.png",
+      "PackagePath": "staticwebassets\\web\\images\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\32.png",
+      "PackagePath": "staticwebassets\\web\\images\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\33.png",
+      "PackagePath": "staticwebassets\\web\\images\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\34.png",
+      "PackagePath": "staticwebassets\\web\\images\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\35.png",
+      "PackagePath": "staticwebassets\\web\\images\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\36.png",
+      "PackagePath": "staticwebassets\\web\\images\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\37.png",
+      "PackagePath": "staticwebassets\\web\\images\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\38.png",
+      "PackagePath": "staticwebassets\\web\\images\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\39.png",
+      "PackagePath": "staticwebassets\\web\\images\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\4.png",
+      "PackagePath": "staticwebassets\\web\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\40.png",
+      "PackagePath": "staticwebassets\\web\\images\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\41.png",
+      "PackagePath": "staticwebassets\\web\\images\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\42.png",
+      "PackagePath": "staticwebassets\\web\\images\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\43.png",
+      "PackagePath": "staticwebassets\\web\\images\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\44.png",
+      "PackagePath": "staticwebassets\\web\\images\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\45.png",
+      "PackagePath": "staticwebassets\\web\\images\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\46.png",
+      "PackagePath": "staticwebassets\\web\\images\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\47.png",
+      "PackagePath": "staticwebassets\\web\\images\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\48.png",
+      "PackagePath": "staticwebassets\\web\\images\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\49.png",
+      "PackagePath": "staticwebassets\\web\\images\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\5.png",
+      "PackagePath": "staticwebassets\\web\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\50.png",
+      "PackagePath": "staticwebassets\\web\\images\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\51.png",
+      "PackagePath": "staticwebassets\\web\\images\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\52.png",
+      "PackagePath": "staticwebassets\\web\\images\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\53.png",
+      "PackagePath": "staticwebassets\\web\\images\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\54.png",
+      "PackagePath": "staticwebassets\\web\\images\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\55.png",
+      "PackagePath": "staticwebassets\\web\\images\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\56.png",
+      "PackagePath": "staticwebassets\\web\\images\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\57.png",
+      "PackagePath": "staticwebassets\\web\\images\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\58.png",
+      "PackagePath": "staticwebassets\\web\\images\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\59.png",
+      "PackagePath": "staticwebassets\\web\\images\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\6.png",
+      "PackagePath": "staticwebassets\\web\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\60.png",
+      "PackagePath": "staticwebassets\\web\\images\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\61.png",
+      "PackagePath": "staticwebassets\\web\\images\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\62.png",
+      "PackagePath": "staticwebassets\\web\\images\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\63.png",
+      "PackagePath": "staticwebassets\\web\\images\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\64.png",
+      "PackagePath": "staticwebassets\\web\\images\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\65.png",
+      "PackagePath": "staticwebassets\\web\\images\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\66.png",
+      "PackagePath": "staticwebassets\\web\\images\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\67.png",
+      "PackagePath": "staticwebassets\\web\\images\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\68.png",
+      "PackagePath": "staticwebassets\\web\\images\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\69.png",
+      "PackagePath": "staticwebassets\\web\\images\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\7.png",
+      "PackagePath": "staticwebassets\\web\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\70.png",
+      "PackagePath": "staticwebassets\\web\\images\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\71.png",
+      "PackagePath": "staticwebassets\\web\\images\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\72.png",
+      "PackagePath": "staticwebassets\\web\\images\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\73.png",
+      "PackagePath": "staticwebassets\\web\\images\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\74.png",
+      "PackagePath": "staticwebassets\\web\\images\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\75.png",
+      "PackagePath": "staticwebassets\\web\\images\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\76.png",
+      "PackagePath": "staticwebassets\\web\\images\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\8.png",
+      "PackagePath": "staticwebassets\\web\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\9.png",
+      "PackagePath": "staticwebassets\\web\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\card.png",
+      "PackagePath": "staticwebassets\\web\\images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\cart.png",
+      "PackagePath": "staticwebassets\\web\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\web\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\img-sp.png",
+      "PackagePath": "staticwebassets\\web\\images\\img-sp.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\offer.png",
+      "PackagePath": "staticwebassets\\web\\images\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\web\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\star.png",
+      "PackagePath": "staticwebassets\\web\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\star1.png",
+      "PackagePath": "staticwebassets\\web\\images\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\images\\tag.png",
+      "PackagePath": "staticwebassets\\web\\images\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\web\\js\\creditly.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.wmuSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\web\\js\\minicart.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\okzoom.js",
+      "PackagePath": "staticwebassets\\web\\js\\okzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\kitchen.html",
+      "PackagePath": "staticwebassets\\web\\kitchen.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\login.html",
+      "PackagePath": "staticwebassets\\web\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\mail.html",
+      "PackagePath": "staticwebassets\\web\\mail.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\payment.html",
+      "PackagePath": "staticwebassets\\web\\payment.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\pet.html",
+      "PackagePath": "staticwebassets\\web\\pet.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\privacy.html",
+      "PackagePath": "staticwebassets\\web\\privacy.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\products.html",
+      "PackagePath": "staticwebassets\\web\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\services.html",
+      "PackagePath": "staticwebassets\\web\\services.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\short-codes.html",
+      "PackagePath": "staticwebassets\\web\\short-codes.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\single.html",
+      "PackagePath": "staticwebassets\\web\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\vegetables.html",
+      "PackagePath": "staticwebassets\\web\\vegetables.html"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Documents\\GitHub\\Asp-.Net-Food-Automation\\CoreFood\\CoreFood\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CoreFood.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

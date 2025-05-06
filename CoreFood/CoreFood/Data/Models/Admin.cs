@@ -11,7 +11,7 @@ namespace CoreFood.Data.Models
         public string userName { get; set; }
 
         [StringLength(20)]
-        public int password { get; set; }
+        public string password { get; set; }
         public string adminRole { get; set; }
     }
 }
